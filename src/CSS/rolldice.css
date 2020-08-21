@@ -1,0 +1,16 @@
+.rolldice button {
+  width: 15%;
+  padding: 0.8em;
+  border: none;
+  outline: none;
+  border-radius: 0.5em;
+  color: white;
+  background: black;
+  font-size: 18px;
+  cursor: pointer;
+  margin: 2em 0;
+}
+
+.rolldice button:hover {
+  background-color: darkblue;
+}
